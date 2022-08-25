@@ -33,6 +33,11 @@ p {
     line-height: 1.4em;
 }
 
+h4 {
+    color: #ff0048;
+    font-size: 20px;
+}
+
 #mushoku {
     height: 500px;
     border-radius: 50px;
