@@ -5,63 +5,20 @@ body {
     margin: 50px;
 }
 
+strong {
+    color: #ff0048;
+}
+
 h1 {
     color: #ff0048;
 }
 
 h2 {
     color: #ff0048;
-    font-size: 30px;
 }
 
 h3 {
     color: #ff0048;
-    font-size: 20px;
-}
-
-h4 {
-    color: #ff0048;
-    font-size: 30px;
-}
-
-h5 {
-    color: #ff0048;
-    font-size: 20px;
-}
-
-h6 {
-    color: #ff0048;
-    font-size: 30px;
-}
-
-h7 {
-    color: #ff0048;
-    font-size: 20px;
-}
-
-h8 {
-    color: #ff0048;
-    font-size: 30px;
-}
-
-h9 {
-    color: #ff0048;
-    font-size: 20px;
-}
-
-h10 {
-    color: #ff0048;
-    font-size: 30px;
-}
-
-h11 {
-    color: #ff0048;
-    font-size: 20px;
-}
-
-h12 {
-    color: #ff0048;
-    font-size: 30px;
 }
 
 p {
@@ -72,10 +29,6 @@ p {
     font-size: 20px;
     font-weight: 400;
     line-height: 1.4em;
-}
-
-strong {
-    color: #ff0048;
 }
 
 #banner {
